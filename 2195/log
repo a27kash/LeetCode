@@ -1,0 +1,8 @@
+sort, iterate till k unique found
+n log n run time
+
+merge sort
+
+map, iterate till k unique found
+n run time
+n extra space

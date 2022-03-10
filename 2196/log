@@ -1,0 +1,26 @@
+0th parent is root
+
+canBeRoot map
+
+child parent map
+15, 20
+17, 20
+80, 50
+20, 50
+
+
+20, 15
+50, 80
+50, 20
+
+
+[[20,15,1],[20,17,0],[50,20,1],[50,80,0],[80,19,1]]
+
+canBeRoot map
+
+20, node
+15, node
+17, node
+50, node
+80, node
+19, node

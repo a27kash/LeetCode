@@ -1,0 +1,45 @@
+2 3 6
+2 6
+6
+
+
+2 5 10
+2 10
+10
+
+co-prime if GCD is 1
+non co-prime if GCD > 1
+
+array length < 10^5
+values < 10^5
+
+final values < 10^8
+
+
+algorithm to find GCD
+
+prime factorization and then intersection
+
+
+continuous division
+
+if remainder is 1, co-prime
+if remainder is 0, non co-prime
+
+
+8, 12
+
+4, 8
+
+0
+
+
+2, 3
+1, 2
+
+
+
+7, 12
+5, 7
+2, 5
+1
